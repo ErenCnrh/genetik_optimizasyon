@@ -35,11 +35,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ## Kullanım Talimatı
 
-Proje, genetik_optimizasyon.ipynb adlı Jupyter Notebook dosyasında bulunmaktadır. Notebook içinde her adımda açıklamalar (Markdown) yer almalıdır.
-
-1. Jupyter Notebook/Lab ortamını başlatın.
+1. Dosyayı indirin veya Google Colab üzerinde açın.
 2. Proje dosyasını açın.
-3. Notebook içindeki tüm hücreleri sırasıyla çalıştırın.
+3. Tüm hücreleri sırasıyla çalıştırın.
 
 Çalışma sonucunda, çıktı olarak aşağıdaki bilgiler sunulacaktır:
 1. Her jenerasyonda elde edilen en iyi uygunluk (fitness) skorları.
