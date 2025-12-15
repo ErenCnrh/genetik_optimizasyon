@@ -51,4 +51,4 @@ Proje, genetik_optimizasyon.ipynb adlı Jupyter Notebook dosyasında bulunmaktad
 Adınız: Eren
 Soyadınız: Canruh
 Okul Numarası: 2312721045
-GitHub Repo Bağlantısı: https://github.com/ErenCnruh/genetik_optimizasyon.git)
+GitHub Repo Bağlantısı: https://github.com/ErenCnrh/genetik_optimizasyon.git)
